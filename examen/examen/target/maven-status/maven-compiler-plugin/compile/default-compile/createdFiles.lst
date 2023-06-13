@@ -1,0 +1,7 @@
+com\tendencias\app\Examen\service\GenericServiceImpl.class
+com\tendencias\app\Examen\repository\ProductoRepository.class
+com\tendencias\app\Examen\model\Producto.class
+com\tendencias\app\Examen\controller\ProductoController.class
+com\tendencias\app\Examen\service\ProductoServiceImpl.class
+com\tendencias\app\Examen\service\GenericService.class
+com\tendencias\app\Examen\ProductoApplication.class
